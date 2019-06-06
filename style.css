@@ -1,0 +1,20 @@
+body {
+	background: #f8f8f8;
+}
+
+.navigation {
+	border-bottom: 1px solid grey;
+}
+
+.icon {
+	width: 20px;
+}
+
+.gmail_logo {
+	width: 50px;
+}
+
+.twitter_logo {
+	width: 30px;
+}
+
